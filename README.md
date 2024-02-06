@@ -3,7 +3,7 @@
 
 ## Dependencies & Technologies
 
-- Python 3.x
+- Python 3.xx
 - TensorFlow 2.8.1
 - OpenCV (cv2)
 - Mediapipe
