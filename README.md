@@ -1,5 +1,5 @@
 ## Sign Language Detection From Webcam
-# This project focuses on building a gesture recognition system using MediaPipe for hand and body pose detection combined with a Long Short-Term Memory (LSTM) neural network for sequence classification. The goal is to recognize predefined gestures in real-time through a webcam feed.
+ This project focuses on building a gesture recognition system using MediaPipe for hand and body pose detection combined with a Long Short-Term Memory (LSTM) neural network for sequence classification. The goal is to recognize predefined gestures in real-time through a webcam feed.
 
 #### Prerequisites
 
