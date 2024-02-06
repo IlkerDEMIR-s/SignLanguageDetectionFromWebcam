@@ -16,7 +16,7 @@
 
 #### EarlyStopping
 
-
+!["EarlyStopping"](https://github.com/IlkerDEMIR-s/SignLanguageDetectionFromWebcam/blob/main/document/es.png)
 
 #### Demonstration
 
